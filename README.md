@@ -144,7 +144,7 @@
 # 框架/库
 
 - [ ] [尤大都推荐的组件库是如何开发出来的？](https://mp.weixin.qq.com/s/3ph4KzJ1GaA80RxZqgl39A)
-- [ ] [一份 ElementUI 问题清单](https://mp.weixin.qq.com/s/-Cq_8F_tBAoA8cJGktOU9A)
+- [x] [一份 ElementUI 问题清单](https://mp.weixin.qq.com/s/-Cq_8F_tBAoA8cJGktOU9A)
 
 
 
