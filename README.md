@@ -35,6 +35,9 @@
 - [x] [前端手写题整理](https://juejin.cn/post/6980332066722447390)
 
 
+# css
+- [ ] [重新构想原子化 CSS](https://mp.weixin.qq.com/s/2raMrIEu1Qt2HQQx6s3KfA)
+
 
 # js
 
@@ -104,6 +107,8 @@
 - [x] [leetcode 最常见的150道前端面试题（简单题下）](https://mp.weixin.qq.com/s/dkbt65d51Jmx6XtrnqLVSA)
 - [x] [【算法面试】leetcode最常见的150道前端面试题 --- 中等题2（共80题）](https://juejin.cn/post/6992775762491211783)
 - [ ] [字节跳动最爱考的 64 道算法题（JS版）](https://juejin.cn/post/6947842412102287373)
+- [ ] [OT算法](https://mp.weixin.qq.com/s/CrBAEm72qtZ707vZab8iiQ)
+- [ ] [协同编辑冲突处理算法综述](https://mp.weixin.qq.com/s/3aOdbtCtSf-8YACeowbASA)
 
 
 
@@ -147,6 +152,10 @@
 - [ ] [尤大都推荐的组件库是如何开发出来的？](https://mp.weixin.qq.com/s/3ph4KzJ1GaA80RxZqgl39A)
 - [x] [一份 ElementUI 问题清单](https://mp.weixin.qq.com/s/-Cq_8F_tBAoA8cJGktOU9A)
 
+# 源码
+
+- [ ] [如何阅读源码 —— 以 Vetur 为例](https://mp.weixin.qq.com/s/hDzZpLb-b3TPjJ22fMxRRw)
+
 
 
 # 其他
@@ -176,6 +185,9 @@
 - [ ] [钉钉表格，从零到一打造在线 Excel](https://zhuanlan.zhihu.com/p/340423350)
 
 - [ ] [精读《高性能表格》](https://zhuanlan.zhihu.com/p/364094849)
+
+- [ ] [在线协作系统总体架构](https://mp.weixin.qq.com/s/iZoMAkqfY85IDeIeslIN7A)
+- [ ] [面试官：如何实现扫码登录功能？](https://mp.weixin.qq.com/s/P8xle1mEPMpftUbV6K5hTw)
 
   
 
