@@ -135,7 +135,7 @@
 - [x] [你的Tree-Shaking并没什么卵用](https://juejin.cn/post/6844903549290151949)
 - [x] [VuePress + Travis CI + Github Pages 全自动上线文档](https://juejin.cn/post/6844903869558816781)
 - [x] [2021 年当我们聊前端部署时，我们在聊什么](https://juejin.cn/post/7017710911443959839)
-- [ ] [lerna 已停止维护，Monorepo 发包新方案是什么？](https://mp.weixin.qq.com/s/ftHT8aoMQZaG1MPZqsTs4Q)
+- [x] [lerna 已停止维护，Monorepo 发包新方案是什么？](https://mp.weixin.qq.com/s/ftHT8aoMQZaG1MPZqsTs4Q)
 
 
 
