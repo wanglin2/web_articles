@@ -174,7 +174,7 @@
 
 - [x] [听完玉伯的直播，我学到了这些。](https://mp.weixin.qq.com/s/yNI2oQ1nFymVJ6bVFuJ0uA)
 
-- [ ] [如何定个目标：成长为滴滴D8的前端大佬！](https://mp.weixin.qq.com/s/RypiPoBRtGdAO9WcqWROHg)
+- [x] [如何定个目标：成长为滴滴D8的前端大佬！](https://mp.weixin.qq.com/s/RypiPoBRtGdAO9WcqWROHg)
 
 - [ ] [字节跳动是如何落地微前端的](https://mp.weixin.qq.com/s/3EyaoBsGRsABUevELZz5gw)
 
