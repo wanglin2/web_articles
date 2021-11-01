@@ -48,7 +48,7 @@
 - [x] [前端面试必知必会的十道Promise题](https://mp.weixin.qq.com/s/324JBuP_B8dvExO7_BlYXw)
 - [x] [哔哩哔哩：JS 异步笔试题，请写出以下代码的执行结果](https://mp.weixin.qq.com/s/9zQ5nEsk4SQuzc2reUPasg)
 - [ ] [浏览器中的 ESM](https://mp.weixin.qq.com/s/bMgYgS6rWPkerDo-D6vmMw)
-- [ ] [浅析 JavaScript 沙箱](https://mp.weixin.qq.com/s/euHJpS6rcRRqVBIPAnbUHA)
+- [x] [浅析 JavaScript 沙箱](https://mp.weixin.qq.com/s/euHJpS6rcRRqVBIPAnbUHA)
 
 # NodeJs
 - [ ] [Node.js 底层原理](https://mp.weixin.qq.com/s/ognHGg6ptHmvWOWb9B4bPw)
