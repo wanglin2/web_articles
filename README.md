@@ -48,6 +48,7 @@
 - [x] [前端面试必知必会的十道Promise题](https://mp.weixin.qq.com/s/324JBuP_B8dvExO7_BlYXw)
 - [x] [哔哩哔哩：JS 异步笔试题，请写出以下代码的执行结果](https://mp.weixin.qq.com/s/9zQ5nEsk4SQuzc2reUPasg)
 - [ ] [浏览器中的 ESM](https://mp.weixin.qq.com/s/bMgYgS6rWPkerDo-D6vmMw)
+- [ ] [浅析 JavaScript 沙箱](https://mp.weixin.qq.com/s/euHJpS6rcRRqVBIPAnbUHA)
 
 
 
@@ -136,6 +137,7 @@
 - [x] [VuePress + Travis CI + Github Pages 全自动上线文档](https://juejin.cn/post/6844903869558816781)
 - [x] [2021 年当我们聊前端部署时，我们在聊什么](https://juejin.cn/post/7017710911443959839)
 - [x] [lerna 已停止维护，Monorepo 发包新方案是什么？](https://mp.weixin.qq.com/s/ftHT8aoMQZaG1MPZqsTs4Q)
+- [ ] [字节跳动 Modern.js 开源 —— 现代 Web 工程体系](https://mp.weixin.qq.com/s/iTMqxX8QEk1w0hQfZ8tD8g)
 
 
 
@@ -188,6 +190,9 @@
 
 - [ ] [在线协作系统总体架构](https://mp.weixin.qq.com/s/iZoMAkqfY85IDeIeslIN7A)
 - [ ] [面试官：如何实现扫码登录功能？](https://mp.weixin.qq.com/s/P8xle1mEPMpftUbV6K5hTw)
+- [ ] [有赞美业微前端的落地总结](https://mp.weixin.qq.com/s/flE6nJWtv4T4GlA2fQv7IA)
+- [ ] [实时协同编辑的实现](https://fex.baidu.com/blog/2014/04/realtime-collaboration/?utm_source=wechat_session&utm_medium=social&utm_oi=876953434316759040)
+- [ ] [多人协同编辑技术的演进](https://zhuanlan.zhihu.com/p/425265438?utm_source=wechat_session&utm_medium=social&utm_oi=876953434316759040&utm_campaign=shareopn)
 
   
 
