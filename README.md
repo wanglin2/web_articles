@@ -187,7 +187,7 @@
 
 - [ ] [Garfish 微前端实现原理](https://mp.weixin.qq.com/s/5t1RpPXVCGCPlxGBmxUGbg)
 
-- [ ] [钉钉表格，从零到一打造在线 Excel](https://zhuanlan.zhihu.com/p/340423350)
+- [x] [钉钉表格，从零到一打造在线 Excel](https://zhuanlan.zhihu.com/p/340423350)
 
 - [ ] [精读《高性能表格》](https://zhuanlan.zhihu.com/p/364094849)
 
