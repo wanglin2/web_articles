@@ -37,7 +37,7 @@
 
 # css
 - [ ] [重新构想原子化 CSS](https://mp.weixin.qq.com/s/2raMrIEu1Qt2HQQx6s3KfA)
-
+- [ ] [聊聊纯 CSS 图标](https://mp.weixin.qq.com/s/n-EbhQtSDsR3A9HYWbDbAw)
 
 # js
 
@@ -140,6 +140,7 @@
 - [x] [lerna 已停止维护，Monorepo 发包新方案是什么？](https://mp.weixin.qq.com/s/ftHT8aoMQZaG1MPZqsTs4Q)
 - [x] [字节跳动 Modern.js 开源 —— 现代 Web 工程体系](https://mp.weixin.qq.com/s/iTMqxX8QEk1w0hQfZ8tD8g)
 - [ ] [迈入现代 Web 开发（GMTC 2021 演讲《字节跳动的现代 Web 开发实践》全文）](https://mp.weixin.qq.com/s/0VDBAgEvqB1xiUs540Fu9A)
+- [ ] [手把手教你写一个迷你 Webpack](https://mp.weixin.qq.com/s/-REUvKJmdjJPJ-M5CRffpg)
 
 
 
@@ -156,10 +157,12 @@
 - [x] [尤大都推荐的组件库是如何开发出来的？](https://mp.weixin.qq.com/s/3ph4KzJ1GaA80RxZqgl39A)
 - [x] [一份 ElementUI 问题清单](https://mp.weixin.qq.com/s/-Cq_8F_tBAoA8cJGktOU9A)
 - [ ] [Semi Design 组件库通过分层设计同时支持 React、Vue 等框架的秘密](https://mp.weixin.qq.com/s/l3-CTd8R6Re-nqcSAUXbjA)
+- [ ] [一篇非常 Nice 的 UmiJS 教程](https://mp.weixin.qq.com/s/7enbyPMKxinB3B_dZw-rEg)
 
 # 源码
 
 - [ ] [如何阅读源码 —— 以 Vetur 为例](https://mp.weixin.qq.com/s/hDzZpLb-b3TPjJ22fMxRRw)
+- [ ] [学会Rollup插件思想，打造高可扩展工具](https://mp.weixin.qq.com/s/VCIxxYNOsJFzNR_d7DuOxQ)
 
 
 
@@ -232,9 +235,10 @@
 
 
 
-# 简历完善
+# 简历完善/职业规划
 
 - [x] [一个大佬的简历](https://ustbhuangyi.github.io/resume/)
 - [x] [如何写「前端简历」，能敲开字节跳动的大门？](https://mp.weixin.qq.com/s/py_HLqOjNdL4l0CZHjMwqw)
 - [x] [坐下来谈谈如何写好一份简历？](https://mp.weixin.qq.com/s/S3XHfb0zD0UiPZypYSlCnw)
 - [x] [若川知乎问答：2年前端经验，做的项目没什么技术含量，怎么办？](https://mp.weixin.qq.com/s/PY02WfJb96xXuF5OR5DDmQ)
+- [ ] [5 年前端经验的大佬提供的职业规划](https://mp.weixin.qq.com/s/5jK0Ahp6TXDuPFWGo3N6Ug)
