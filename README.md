@@ -36,7 +36,7 @@
 
 
 # css
-- [ ] [重新构想原子化 CSS](https://mp.weixin.qq.com/s/2raMrIEu1Qt2HQQx6s3KfA)
+- [x] [重新构想原子化 CSS](https://mp.weixin.qq.com/s/2raMrIEu1Qt2HQQx6s3KfA)
 - [ ] [聊聊纯 CSS 图标](https://mp.weixin.qq.com/s/n-EbhQtSDsR3A9HYWbDbAw)
 
 # js
