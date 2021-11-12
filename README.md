@@ -140,7 +140,7 @@
 - [x] [lerna 已停止维护，Monorepo 发包新方案是什么？](https://mp.weixin.qq.com/s/ftHT8aoMQZaG1MPZqsTs4Q)
 - [x] [字节跳动 Modern.js 开源 —— 现代 Web 工程体系](https://mp.weixin.qq.com/s/iTMqxX8QEk1w0hQfZ8tD8g)
 - [ ] [迈入现代 Web 开发（GMTC 2021 演讲《字节跳动的现代 Web 开发实践》全文）](https://mp.weixin.qq.com/s/0VDBAgEvqB1xiUs540Fu9A)
-- [ ] [手把手教你写一个迷你 Webpack](https://mp.weixin.qq.com/s/-REUvKJmdjJPJ-M5CRffpg)
+- [x] [手把手教你写一个迷你 Webpack](https://mp.weixin.qq.com/s/-REUvKJmdjJPJ-M5CRffpg)
 
 
 
