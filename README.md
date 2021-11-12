@@ -161,7 +161,7 @@
 
 # 源码
 
-- [ ] [如何阅读源码 —— 以 Vetur 为例](https://mp.weixin.qq.com/s/hDzZpLb-b3TPjJ22fMxRRw)
+- [x] [如何阅读源码 —— 以 Vetur 为例](https://mp.weixin.qq.com/s/hDzZpLb-b3TPjJ22fMxRRw)
 - [ ] [学会Rollup插件思想，打造高可扩展工具](https://mp.weixin.qq.com/s/VCIxxYNOsJFzNR_d7DuOxQ)
 
 
