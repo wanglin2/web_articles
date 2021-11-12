@@ -157,7 +157,7 @@
 - [x] [尤大都推荐的组件库是如何开发出来的？](https://mp.weixin.qq.com/s/3ph4KzJ1GaA80RxZqgl39A)
 - [x] [一份 ElementUI 问题清单](https://mp.weixin.qq.com/s/-Cq_8F_tBAoA8cJGktOU9A)
 - [ ] [Semi Design 组件库通过分层设计同时支持 React、Vue 等框架的秘密](https://mp.weixin.qq.com/s/l3-CTd8R6Re-nqcSAUXbjA)
-- [ ] [一篇非常 Nice 的 UmiJS 教程](https://mp.weixin.qq.com/s/7enbyPMKxinB3B_dZw-rEg)
+- [x] [一篇非常 Nice 的 UmiJS 教程](https://mp.weixin.qq.com/s/7enbyPMKxinB3B_dZw-rEg)
 
 # 源码
 
