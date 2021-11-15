@@ -199,7 +199,7 @@
 - [ ] [有赞美业微前端的落地总结](https://mp.weixin.qq.com/s/flE6nJWtv4T4GlA2fQv7IA)
 - [ ] [实时协同编辑的实现](https://fex.baidu.com/blog/2014/04/realtime-collaboration/?utm_source=wechat_session&utm_medium=social&utm_oi=876953434316759040)
 - [ ] [多人协同编辑技术的演进](https://zhuanlan.zhihu.com/p/425265438?utm_source=wechat_session&utm_medium=social&utm_oi=876953434316759040&utm_campaign=shareopn)
-- [ ] [谈谈浏览器中富文本编辑器的技术演进](https://mp.weixin.qq.com/s/8TSxm2q0kQrVA9AaUE0I7g)
+- [x] [谈谈浏览器中富文本编辑器的技术演进](https://mp.weixin.qq.com/s/8TSxm2q0kQrVA9AaUE0I7g)
 
   
 
