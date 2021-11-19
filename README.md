@@ -195,7 +195,7 @@
 
 - [x] [钉钉表格，从零到一打造在线 Excel](https://zhuanlan.zhihu.com/p/340423350)
 
-- [ ] [精读《高性能表格》](https://zhuanlan.zhihu.com/p/364094849)
+- [x] [精读《高性能表格》](https://zhuanlan.zhihu.com/p/364094849)
 
 - [ ] [在线协作系统总体架构](https://mp.weixin.qq.com/s/iZoMAkqfY85IDeIeslIN7A)
 - [ ] [面试官：如何实现扫码登录功能？](https://mp.weixin.qq.com/s/P8xle1mEPMpftUbV6K5hTw)
