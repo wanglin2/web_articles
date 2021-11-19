@@ -203,7 +203,7 @@
 - [x] [实时协同编辑的实现](https://fex.baidu.com/blog/2014/04/realtime-collaboration/?utm_source=wechat_session&utm_medium=social&utm_oi=876953434316759040)
 - [x] [多人协同编辑技术的演进](https://zhuanlan.zhihu.com/p/425265438?utm_source=wechat_session&utm_medium=social&utm_oi=876953434316759040&utm_campaign=shareopn)
 - [x] [谈谈浏览器中富文本编辑器的技术演进](https://mp.weixin.qq.com/s/8TSxm2q0kQrVA9AaUE0I7g)
-- [ ] [现代 Web 开发困局](https://mp.weixin.qq.com/s/bYzlFCSnkpmnkTyPHP64fQ)
+- [x] [现代 Web 开发困局](https://mp.weixin.qq.com/s/bYzlFCSnkpmnkTyPHP64fQ)
 - [ ] [当微前端遇见企业微信侧边栏需求，会碰撞出什么样的火花？](https://mp.weixin.qq.com/s/wr3pCA0FnRtHuIyyDkSloA)
 
   
