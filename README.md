@@ -191,7 +191,7 @@
 
 - [ ] [从零开始实现一个颜色选择器（原生JavaScript实现）](https://mp.weixin.qq.com/s/2tuHGVubyz2crx5ewg3Ysw)
 
-- [ ] [Garfish 微前端实现原理](https://mp.weixin.qq.com/s/5t1RpPXVCGCPlxGBmxUGbg)
+- [x] [Garfish 微前端实现原理](https://mp.weixin.qq.com/s/5t1RpPXVCGCPlxGBmxUGbg)
 
 - [x] [钉钉表格，从零到一打造在线 Excel](https://zhuanlan.zhihu.com/p/340423350)
 
