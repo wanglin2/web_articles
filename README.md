@@ -187,7 +187,7 @@
 
 - [ ] [VSCode 语言插件开发入门](https://mp.weixin.qq.com/s/Eqb9hAvG-WeseP9rCl_XRg)
 
-- [ ] [深入浅出解析阿里成熟的微前端框架 qiankun 源码【图文并茂】](https://mp.weixin.qq.com/s/Q_5iaHlgigy6jftShgkwhA)
+- [x] [深入浅出解析阿里成熟的微前端框架 qiankun 源码【图文并茂】](https://mp.weixin.qq.com/s/Q_5iaHlgigy6jftShgkwhA)
 
 - [ ] [从零开始实现一个颜色选择器（原生JavaScript实现）](https://mp.weixin.qq.com/s/2tuHGVubyz2crx5ewg3Ysw)
 
