@@ -73,7 +73,7 @@
 - [ ] [手把手带你实现一个最精简的响应式系统来学习Vue的data、computed、watch源码](https://juejin.cn/post/6844903981957791757)
 - [x] [基于Vue的前端架构，我做了这15点](https://mp.weixin.qq.com/s/gROjYWEGkQ1ULYVnl_GaiQ)
 - [x] [架构师让 Vue Table 组件提速 10 倍，背后用到了哪些源码知识？](https://mp.weixin.qq.com/s/GyMWwl5AOY0XuuF2rZhyUg)
-- [ ] [知乎热议的 Vue3 Ref 语法糖，实现原理是啥？](https://mp.weixin.qq.com/s/4WqhZmVgSTigVnpB9T7zgA)
+- [x] [知乎热议的 Vue3 Ref 语法糖，实现原理是啥？](https://mp.weixin.qq.com/s/4WqhZmVgSTigVnpB9T7zgA)
 - [ ] [LRU 缓存-keep-alive 实现原理](https://mp.weixin.qq.com/s/UBrZWeWfCBedUvDBijtqyA)
 
 
