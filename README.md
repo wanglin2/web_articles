@@ -169,6 +169,7 @@
 
 - [x] [如何阅读源码 —— 以 Vetur 为例](https://mp.weixin.qq.com/s/hDzZpLb-b3TPjJ22fMxRRw)
 - [ ] [学会Rollup插件思想，打造高可扩展工具](https://mp.weixin.qq.com/s/VCIxxYNOsJFzNR_d7DuOxQ)
+- [ ] [庖丁解牛：最全babel-plugin-import源码详解](https://www.jianshu.com/p/c276c4495c95)
 
 
 
