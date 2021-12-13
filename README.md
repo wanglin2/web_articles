@@ -54,6 +54,7 @@
 # NodeJs
 - [ ] [Node.js 底层原理](https://mp.weixin.qq.com/s/ognHGg6ptHmvWOWb9B4bPw)
 - [ ] [一文搞懂 Node入门框架 Koa2 原理，学它！](https://mp.weixin.qq.com/s/0ELVTm9oP8m7hnXnFNn4XQ)
+- [ ] [基于 Koa 的微服务 Node.js 框架设计思路与简单实现](https://mp.weixin.qq.com/s/RRQEk5gNs8Y58eEi7bu5Cw)
 
 # Vue
 
