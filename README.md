@@ -204,7 +204,7 @@
 - [x] [精读《高性能表格》](https://zhuanlan.zhihu.com/p/364094849)
 
 - [x] [在线协作系统总体架构](https://mp.weixin.qq.com/s/iZoMAkqfY85IDeIeslIN7A)
-- [ ] [面试官：如何实现扫码登录功能？](https://mp.weixin.qq.com/s/P8xle1mEPMpftUbV6K5hTw)
+- [x] [面试官：如何实现扫码登录功能？](https://mp.weixin.qq.com/s/P8xle1mEPMpftUbV6K5hTw)
 - [x] [有赞美业微前端的落地总结](https://mp.weixin.qq.com/s/flE6nJWtv4T4GlA2fQv7IA)
 - [x] [实时协同编辑的实现](https://fex.baidu.com/blog/2014/04/realtime-collaboration/?utm_source=wechat_session&utm_medium=social&utm_oi=876953434316759040)
 - [x] [多人协同编辑技术的演进](https://zhuanlan.zhihu.com/p/425265438?utm_source=wechat_session&utm_medium=social&utm_oi=876953434316759040&utm_campaign=shareopn)
