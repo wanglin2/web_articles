@@ -212,7 +212,7 @@
 - [ ] [当微前端遇见企业微信侧边栏需求，会碰撞出什么样的火花？](https://mp.weixin.qq.com/s/wr3pCA0FnRtHuIyyDkSloA)
 - [ ] [前端团队代码规范最佳实践，个人成长必备！](https://mp.weixin.qq.com/s/uVl-L-YB1KJdfnWPLBB7xw)
 - [ ] [Rejouer：探秘web页面录制与回放的新大陆](https://mp.weixin.qq.com/s/2WQQSWSl3vdwqRF0kIYWOA)
-- [ ] [从零实现并扩展可自由绘制的画板](https://mp.weixin.qq.com/s/QYgnSRejggxUVq2SHzwXPg)
+- [x] [从零实现并扩展可自由绘制的画板](https://mp.weixin.qq.com/s/QYgnSRejggxUVq2SHzwXPg)
 - [x] [Twitter和微博都在用的 @ 人的功能是如何设计与实现的？](https://mp.weixin.qq.com/s/nrJ-TO7M8wSOsEYS0xuWPA)
 - [ ] [CANVAS增量渲染：裁剪和拼接，小数与残影](https://mp.weixin.qq.com/s/3txsm-JbsGYRciE9Er3kdw)
 - [x] [CodeSandbox 浏览器端的webpack是如何工作的？ 上篇](https://juejin.cn/post/6844903880652750862)
