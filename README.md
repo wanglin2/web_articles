@@ -150,7 +150,7 @@
 - [ ] [迈入现代 Web 开发（GMTC 2021 演讲《字节跳动的现代 Web 开发实践》全文）](https://mp.weixin.qq.com/s/0VDBAgEvqB1xiUs540Fu9A)
 - [x] [手把手教你写一个迷你 Webpack](https://mp.weixin.qq.com/s/-REUvKJmdjJPJ-M5CRffpg)
 - [ ] [Webpack 原理—如何实现代码打包](https://mp.weixin.qq.com/s/NhZt-XldddEbwHoHLXNcZg)
-- [ ] [create-?」每个前端开发者都可以拥有属于自己的命令行脚手架](https://mp.weixin.qq.com/s/cC-fw9mOIsfNS32uujccqQ)
+- [x] [create-?」每个前端开发者都可以拥有属于自己的命令行脚手架](https://mp.weixin.qq.com/s/cC-fw9mOIsfNS32uujccqQ)
 
 
 
