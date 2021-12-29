@@ -91,6 +91,7 @@
 - [x] [(1.6w字)浏览器与前端性能灵魂之问，请问你能接得住几个？（上）](https://mp.weixin.qq.com/s/mqX-eCfGEY9DveG9-3BPiQ)
 - [x] [从 8 道面试题看浏览器渲染过程与性能优化](https://juejin.cn/post/6844904040346681358)
 - [x] [淘宝首页性能优化实践](https://www.cnblogs.com/doseoer/p/5879749.html)
+- [x] [飞书文档移动端极致体验优化实践](https://mp.weixin.qq.com/s/zWpjuOTjbp_xQQkqaMSmLQ)
 
 
 
@@ -158,7 +159,6 @@
 - [x] [JSBridge的原理](https://juejin.cn/post/6844903585268891662)
 - [ ] [响应式布局的常用解决方案对比(媒体查询、百分比、rem和vw/vh）](https://github.com/forthealllight/blog/issues/13)
 - [x] [Webview加载pdf遇到的一些坑及解决方法](https://mp.weixin.qq.com/s/REalZjkQKJaJ2rAw2Qp3RA)
-- [ ] [飞书文档移动端极致体验优化实践](https://mp.weixin.qq.com/s/zWpjuOTjbp_xQQkqaMSmLQ)
 
 
 
