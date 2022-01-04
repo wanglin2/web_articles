@@ -221,7 +221,7 @@
 - [x] [CodeSandbox 浏览器端的webpack是如何工作的？ 上篇](https://juejin.cn/post/6844903880652750862)
 - [ ] [基于 iframe 的全新微前端方案](https://mp.weixin.qq.com/s/jF5OlQ-cJXPXqaPs4iuxHg)
 - [ ] [文本文档协同编辑的实现原理](https://mp.weixin.qq.com/s/mu2EGqaurODbfxa_MRarRQ)
-- [全景封面视频生成技术在双促的应用](https://mp.weixin.qq.com/s/WRiWizv73eD6Bz4xbZVZag)
+- [ ] [全景封面视频生成技术在双促的应用](https://mp.weixin.qq.com/s/WRiWizv73eD6Bz4xbZVZag)
 
 
   
