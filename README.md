@@ -51,6 +51,7 @@
 - [x] [浏览器中的 ESM](https://mp.weixin.qq.com/s/bMgYgS6rWPkerDo-D6vmMw)
 - [x] [浅析 JavaScript 沙箱](https://mp.weixin.qq.com/s/euHJpS6rcRRqVBIPAnbUHA)
 - [ ] [分享一篇 TypeScript 基础入门 文章](https://mp.weixin.qq.com/s/fS4-rx5B6Izl-10KCcjyRA)
+- [ ] [今天升级 esbuild，结果 Babel 挂了？聊聊 ESM 与 CJS 的来世今生。](https://mp.weixin.qq.com/s/2qmy21NUPyoIP-erEIc-uA)
 
 # NodeJs
 - [ ] [Node.js 底层原理](https://mp.weixin.qq.com/s/ognHGg6ptHmvWOWb9B4bPw)
@@ -222,6 +223,8 @@
 - [ ] [基于 iframe 的全新微前端方案](https://mp.weixin.qq.com/s/jF5OlQ-cJXPXqaPs4iuxHg)
 - [ ] [文本文档协同编辑的实现原理](https://mp.weixin.qq.com/s/mu2EGqaurODbfxa_MRarRQ)
 - [ ] [全景封面视频生成技术在双促的应用](https://mp.weixin.qq.com/s/WRiWizv73eD6Bz4xbZVZag)
+- [ ] [今年做的最有挑战的一件事，文档阅读器，支持 doc、pdf、ppt、txt 渲染](https://mp.weixin.qq.com/s/ZwojuHsacL7ctvZGGU8jJw)
+- [ ] [2021 年 JavaScript 明星项目公布，最受欢迎的竟是它？](https://mp.weixin.qq.com/s/gylxj743F2knPnneNiBfEg)
 
 
   
