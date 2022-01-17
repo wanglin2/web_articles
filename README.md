@@ -226,6 +226,7 @@
 - [ ] [全景封面视频生成技术在双促的应用](https://mp.weixin.qq.com/s/WRiWizv73eD6Bz4xbZVZag)
 - [ ] [今年做的最有挑战的一件事，文档阅读器，支持 doc、pdf、ppt、txt 渲染](https://mp.weixin.qq.com/s/ZwojuHsacL7ctvZGGU8jJw)
 - [ ] [2021 年 JavaScript 明星项目公布，最受欢迎的竟是它？](https://mp.weixin.qq.com/s/gylxj743F2knPnneNiBfEg)
+- [ ] [动态列表组件 - 拖拽排序功能设计与实现](https://mp.weixin.qq.com/s/6M7bCHWsRsbx3x-vFcWFUg)
 
 
   
