@@ -221,7 +221,7 @@
 - [x] [Twitter和微博都在用的 @ 人的功能是如何设计与实现的？](https://mp.weixin.qq.com/s/nrJ-TO7M8wSOsEYS0xuWPA)
 - [x] [CANVAS增量渲染：裁剪和拼接，小数与残影](https://mp.weixin.qq.com/s/3txsm-JbsGYRciE9Er3kdw)
 - [x] [CodeSandbox 浏览器端的webpack是如何工作的？ 上篇](https://juejin.cn/post/6844903880652750862)
-- [ ] [基于 iframe 的全新微前端方案](https://mp.weixin.qq.com/s/jF5OlQ-cJXPXqaPs4iuxHg)
+- [x] [基于 iframe 的全新微前端方案](https://mp.weixin.qq.com/s/jF5OlQ-cJXPXqaPs4iuxHg)
 - [ ] [文本文档协同编辑的实现原理](https://mp.weixin.qq.com/s/mu2EGqaurODbfxa_MRarRQ)
 - [ ] [全景封面视频生成技术在双促的应用](https://mp.weixin.qq.com/s/WRiWizv73eD6Bz4xbZVZag)
 - [ ] [今年做的最有挑战的一件事，文档阅读器，支持 doc、pdf、ppt、txt 渲染](https://mp.weixin.qq.com/s/ZwojuHsacL7ctvZGGU8jJw)
