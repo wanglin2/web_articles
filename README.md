@@ -154,6 +154,7 @@
 - [ ] [Webpack 原理—如何实现代码打包](https://mp.weixin.qq.com/s/NhZt-XldddEbwHoHLXNcZg)
 - [x] [create-?」每个前端开发者都可以拥有属于自己的命令行脚手架](https://mp.weixin.qq.com/s/cC-fw9mOIsfNS32uujccqQ)
 - [ ] [在浏览器中，把 Vite 跑起来了！](https://mp.weixin.qq.com/s/MOR4zCtEoSg3jhc9igHgNQ)
+- [ ] [超硬核｜带你畅游在 Webpack 插件开发者的世界](https://juejin.cn/post/7047777251949019173)
 
 
 
@@ -229,6 +230,7 @@
 - [ ] [2021 年 JavaScript 明星项目公布，最受欢迎的竟是它？](https://mp.weixin.qq.com/s/gylxj743F2knPnneNiBfEg)
 - [ ] [动态列表组件 - 拖拽排序功能设计与实现](https://mp.weixin.qq.com/s/6M7bCHWsRsbx3x-vFcWFUg)
 - [ ] [一篇从购买服务器到部署博客代码的详细教程](https://mp.weixin.qq.com/s/fLWKcB6auJTCTs96a8zNEQ)
+- [ ] [前端领域的 “干净架构”](https://juejin.cn/post/7054888223830441991)
 
 
   
