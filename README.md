@@ -50,7 +50,7 @@
 - [x] [哔哩哔哩：JS 异步笔试题，请写出以下代码的执行结果](https://mp.weixin.qq.com/s/9zQ5nEsk4SQuzc2reUPasg)
 - [x] [浏览器中的 ESM](https://mp.weixin.qq.com/s/bMgYgS6rWPkerDo-D6vmMw)
 - [x] [浅析 JavaScript 沙箱](https://mp.weixin.qq.com/s/euHJpS6rcRRqVBIPAnbUHA)
-- [ ] [分享一篇 TypeScript 基础入门 文章](https://mp.weixin.qq.com/s/fS4-rx5B6Izl-10KCcjyRA)
+- [x] [分享一篇 TypeScript 基础入门 文章](https://mp.weixin.qq.com/s/fS4-rx5B6Izl-10KCcjyRA)
 - [ ] [今天升级 esbuild，结果 Babel 挂了？聊聊 ESM 与 CJS 的来世今生。](https://mp.weixin.qq.com/s/2qmy21NUPyoIP-erEIc-uA)
 
 # NodeJs
