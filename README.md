@@ -51,7 +51,7 @@
 - [x] [浏览器中的 ESM](https://mp.weixin.qq.com/s/bMgYgS6rWPkerDo-D6vmMw)
 - [x] [浅析 JavaScript 沙箱](https://mp.weixin.qq.com/s/euHJpS6rcRRqVBIPAnbUHA)
 - [x] [分享一篇 TypeScript 基础入门 文章](https://mp.weixin.qq.com/s/fS4-rx5B6Izl-10KCcjyRA)
-- [ ] [今天升级 esbuild，结果 Babel 挂了？聊聊 ESM 与 CJS 的来世今生。](https://mp.weixin.qq.com/s/2qmy21NUPyoIP-erEIc-uA)
+- [x] [今天升级 esbuild，结果 Babel 挂了？聊聊 ESM 与 CJS 的来世今生。](https://mp.weixin.qq.com/s/2qmy21NUPyoIP-erEIc-uA)
 
 # NodeJs
 - [ ] [Node.js 底层原理](https://mp.weixin.qq.com/s/ognHGg6ptHmvWOWb9B4bPw)
