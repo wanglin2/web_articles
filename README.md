@@ -232,6 +232,7 @@
 - [ ] [一篇从购买服务器到部署博客代码的详细教程](https://mp.weixin.qq.com/s/fLWKcB6auJTCTs96a8zNEQ)
 - [x] [前端领域的 “干净架构”](https://juejin.cn/post/7054888223830441991)
 - [ ] [语雀新画板](https://mp.weixin.qq.com/s/vikIy3uwUXb-aBdULa2nqA)
+- [ ] [跨端技术的本质与现状](https://mp.weixin.qq.com/s/XO4LIvglk2wrMT-Vjd6rkA)
 
 
   
