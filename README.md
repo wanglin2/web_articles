@@ -33,6 +33,7 @@
 - [ ] [【手撕】写给中高级前端的 27 道手写题，希望能乘风破浪](https://juejin.cn/post/6994244850002427934)
 - [ ] [前端面试汇总](https://juejin.cn/post/6997768769414103048)
 - [x] [前端手写题整理](https://juejin.cn/post/6980332066722447390)
+- [ ] [艰难环境下，面腾讯、美团、商汤科技等七家大厂前端有感](https://mp.weixin.qq.com/s/Jw98JPgFjHwCzNIjtu9W7g)
 
 
 # css
