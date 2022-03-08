@@ -156,7 +156,7 @@
 - [x] [create-?」每个前端开发者都可以拥有属于自己的命令行脚手架](https://mp.weixin.qq.com/s/cC-fw9mOIsfNS32uujccqQ)
 - [x] [在浏览器中，把 Vite 跑起来了！](https://mp.weixin.qq.com/s/MOR4zCtEoSg3jhc9igHgNQ)
 - [ ] [超硬核｜带你畅游在 Webpack 插件开发者的世界](https://juejin.cn/post/7047777251949019173)
-- [ ] [前端部署的发展历程](https://mp.weixin.qq.com/s/sfYAk25j0RnO1GzoLcePmg)
+- [x] [前端部署的发展历程](https://mp.weixin.qq.com/s/sfYAk25j0RnO1GzoLcePmg)
 
 
 
