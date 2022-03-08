@@ -233,7 +233,7 @@
 - [ ] [动态列表组件 - 拖拽排序功能设计与实现](https://mp.weixin.qq.com/s/6M7bCHWsRsbx3x-vFcWFUg)
 - [ ] [一篇从购买服务器到部署博客代码的详细教程](https://mp.weixin.qq.com/s/fLWKcB6auJTCTs96a8zNEQ)
 - [x] [前端领域的 “干净架构”](https://juejin.cn/post/7054888223830441991)
-- [ ] [语雀新画板](https://mp.weixin.qq.com/s/vikIy3uwUXb-aBdULa2nqA)
+- [x] [语雀新画板](https://mp.weixin.qq.com/s/vikIy3uwUXb-aBdULa2nqA)
 - [x] [跨端技术的本质与现状](https://mp.weixin.qq.com/s/XO4LIvglk2wrMT-Vjd6rkA)
 - [x] [Web端短视频编辑器的设计与实现 - 像做PPT一样做视频](https://mp.weixin.qq.com/s/WngZd7BR6PgZRoI5guA4ow)
 
