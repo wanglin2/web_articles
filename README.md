@@ -218,7 +218,7 @@
 - [x] [多人协同编辑技术的演进](https://zhuanlan.zhihu.com/p/425265438?utm_source=wechat_session&utm_medium=social&utm_oi=876953434316759040&utm_campaign=shareopn)
 - [x] [谈谈浏览器中富文本编辑器的技术演进](https://mp.weixin.qq.com/s/8TSxm2q0kQrVA9AaUE0I7g)
 - [x] [现代 Web 开发困局](https://mp.weixin.qq.com/s/bYzlFCSnkpmnkTyPHP64fQ)
-- [ ] [当微前端遇见企业微信侧边栏需求，会碰撞出什么样的火花？](https://mp.weixin.qq.com/s/wr3pCA0FnRtHuIyyDkSloA)
+- [x] [当微前端遇见企业微信侧边栏需求，会碰撞出什么样的火花？](https://mp.weixin.qq.com/s/wr3pCA0FnRtHuIyyDkSloA)
 - [x] [前端团队代码规范最佳实践，个人成长必备！](https://mp.weixin.qq.com/s/uVl-L-YB1KJdfnWPLBB7xw)
 - [x] [Rejouer：探秘web页面录制与回放的新大陆](https://mp.weixin.qq.com/s/2WQQSWSl3vdwqRF0kIYWOA)
 - [x] [从零实现并扩展可自由绘制的画板](https://mp.weixin.qq.com/s/QYgnSRejggxUVq2SHzwXPg)
