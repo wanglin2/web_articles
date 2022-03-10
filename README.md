@@ -231,7 +231,7 @@
 - [x] [今年做的最有挑战的一件事，文档阅读器，支持 doc、pdf、ppt、txt 渲染](https://mp.weixin.qq.com/s/ZwojuHsacL7ctvZGGU8jJw)
 - [ ] [2021 年 JavaScript 明星项目公布，最受欢迎的竟是它？](https://mp.weixin.qq.com/s/gylxj743F2knPnneNiBfEg)
 - [ ] [动态列表组件 - 拖拽排序功能设计与实现](https://mp.weixin.qq.com/s/6M7bCHWsRsbx3x-vFcWFUg)
-- [ ] [一篇从购买服务器到部署博客代码的详细教程](https://mp.weixin.qq.com/s/fLWKcB6auJTCTs96a8zNEQ)
+- [x] [一篇从购买服务器到部署博客代码的详细教程](https://mp.weixin.qq.com/s/fLWKcB6auJTCTs96a8zNEQ)
 - [x] [前端领域的 “干净架构”](https://juejin.cn/post/7054888223830441991)
 - [x] [语雀新画板](https://mp.weixin.qq.com/s/vikIy3uwUXb-aBdULa2nqA)
 - [x] [跨端技术的本质与现状](https://mp.weixin.qq.com/s/XO4LIvglk2wrMT-Vjd6rkA)
