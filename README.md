@@ -158,6 +158,7 @@
 - [x] [在浏览器中，把 Vite 跑起来了！](https://mp.weixin.qq.com/s/MOR4zCtEoSg3jhc9igHgNQ)
 - [ ] [超硬核｜带你畅游在 Webpack 插件开发者的世界](https://juejin.cn/post/7047777251949019173)
 - [x] [前端部署的发展历程](https://mp.weixin.qq.com/s/sfYAk25j0RnO1GzoLcePmg)
+- [ ] [ESBuild & SWC浅谈: 新一代构建工具](https://mp.weixin.qq.com/s/9VaUq9FOm2_nKNCGaH-7rw)
 
 
 
@@ -241,6 +242,8 @@
 - [x] [音视频通信加餐 —— WebRTC一肝到底](https://mp.weixin.qq.com/s/ZPdSl6x11HH_KAukRF3KVA)
 - [ ] [我们用 AntV/S2 替换了十几万的商业表格软件](https://mp.weixin.qq.com/s/o-irtBr_-JyTHM1VbhVHvg)
 - [ ] [ProseMirror实现文本编辑](https://mp.weixin.qq.com/s/Y_aglTt4U-84pD6F3KkefA)
+- [ ] [Scroll，你玩明白了嘛？](https://mp.weixin.qq.com/s/diLxdGfEh_ZIFkJrQCzb5w)
+- [ ] [看了9个开源的 Vue3 组件库，发现了这些前端的流行趋势](https://mp.weixin.qq.com/s/81UzOPXOqai_qxIsakX0vw)
 
 
 
