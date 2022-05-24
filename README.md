@@ -158,7 +158,7 @@
 - [x] [在浏览器中，把 Vite 跑起来了！](https://mp.weixin.qq.com/s/MOR4zCtEoSg3jhc9igHgNQ)
 - [ ] [超硬核｜带你畅游在 Webpack 插件开发者的世界](https://juejin.cn/post/7047777251949019173)
 - [x] [前端部署的发展历程](https://mp.weixin.qq.com/s/sfYAk25j0RnO1GzoLcePmg)
-- [ ] [ESBuild & SWC浅谈: 新一代构建工具](https://mp.weixin.qq.com/s/9VaUq9FOm2_nKNCGaH-7rw)
+- [x] [ESBuild & SWC浅谈: 新一代构建工具](https://mp.weixin.qq.com/s/9VaUq9FOm2_nKNCGaH-7rw)
 
 
 
