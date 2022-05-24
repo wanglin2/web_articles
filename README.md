@@ -121,8 +121,8 @@
 - [x] [leetcode 最常见的150道前端面试题（简单题下）](https://mp.weixin.qq.com/s/dkbt65d51Jmx6XtrnqLVSA)
 - [x] [【算法面试】leetcode最常见的150道前端面试题 --- 中等题2（共80题）](https://juejin.cn/post/6992775762491211783)
 - [ ] [字节跳动最爱考的 64 道算法题（JS版）](https://juejin.cn/post/6947842412102287373)
-- [ ] [OT算法](https://mp.weixin.qq.com/s/CrBAEm72qtZ707vZab8iiQ)
-- [ ] [协同编辑冲突处理算法综述](https://mp.weixin.qq.com/s/3aOdbtCtSf-8YACeowbASA)
+- [x] [OT算法](https://mp.weixin.qq.com/s/CrBAEm72qtZ707vZab8iiQ)
+- [x] [协同编辑冲突处理算法综述](https://mp.weixin.qq.com/s/3aOdbtCtSf-8YACeowbASA)
 
 
 
