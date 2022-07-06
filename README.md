@@ -178,7 +178,7 @@
 - [x] [一篇非常 Nice 的 UmiJS 教程](https://mp.weixin.qq.com/s/7enbyPMKxinB3B_dZw-rEg)
 
 # 部署
-- [ ] [分享一篇适合前端学习的 Docker 入门指南](https://mp.weixin.qq.com/s/XF1Nhe3kbqT_sUPRGL2JTA)
+- [x] [分享一篇适合前端学习的 Docker 入门指南](https://mp.weixin.qq.com/s/XF1Nhe3kbqT_sUPRGL2JTA)
 
 # 源码
 
