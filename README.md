@@ -110,7 +110,7 @@
 - [x] [（建议精读）HTTP灵魂之问，巩固你的 HTTP 知识体系](https://juejin.cn/post/6844904100035821575)
 - [x] [从 Chrome 源码看浏览器如何 layout 布局](https://mp.weixin.qq.com/s?__biz=MzI0ODA2ODU2NQ==&mid=2651131615&idx=2&sn=fcb743ed1448be5a13efb22db7c88107&chksm=f257ce65c5204773ab413d6819c9e1ae0785ccdec0acd1d6acf1781b9a4c8e81258c2506cfec&scene=0&key=31a87ca88902ae43bad5c493b64337c36ee2f4b42d197b5412ee85b74d706c59026b6f7488791cbb25f40fbbb1d374a50ca6a08c79c3f1f2d04337c24db4f0dc0bcc9a80f98c47cc9286de8ac67e1573&ascene=0&uin=MTU5MDQxMTgwOA==&devicetype=iMac%20MacBookPro11,1%20OSX%20OSX%2010.12.4%20build%2816E195%29&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=4GNHpvW%2b%2bQjkuIsGQIH2rty%2b/6fvftft87oMZ1nEqtAaJVpFZVYCUdIVZQiNUZmZ)
 - [x] [万字详文：深入理解浏览器原理](https://zhuanlan.zhihu.com/p/96986818)
-- [ ] [经过一个月的探索，我如何将 AST 操作得跟呼吸一样自然](https://mp.weixin.qq.com/s/_XhK4mBBnZW-JVstOpe23A)
+- [x] [经过一个月的探索，我如何将 AST 操作得跟呼吸一样自然](https://mp.weixin.qq.com/s/_XhK4mBBnZW-JVstOpe23A)
 
 
 
@@ -151,7 +151,7 @@
 - [x] [2021 年当我们聊前端部署时，我们在聊什么](https://juejin.cn/post/7017710911443959839)
 - [x] [lerna 已停止维护，Monorepo 发包新方案是什么？](https://mp.weixin.qq.com/s/ftHT8aoMQZaG1MPZqsTs4Q)
 - [x] [字节跳动 Modern.js 开源 —— 现代 Web 工程体系](https://mp.weixin.qq.com/s/iTMqxX8QEk1w0hQfZ8tD8g)
-- [ ] [迈入现代 Web 开发（GMTC 2021 演讲《字节跳动的现代 Web 开发实践》全文）](https://mp.weixin.qq.com/s/0VDBAgEvqB1xiUs540Fu9A)
+- [x] [迈入现代 Web 开发（GMTC 2021 演讲《字节跳动的现代 Web 开发实践》全文）](https://mp.weixin.qq.com/s/0VDBAgEvqB1xiUs540Fu9A)
 - [x] [手把手教你写一个迷你 Webpack](https://mp.weixin.qq.com/s/-REUvKJmdjJPJ-M5CRffpg)
 - [ ] [Webpack 原理—如何实现代码打包](https://mp.weixin.qq.com/s/NhZt-XldddEbwHoHLXNcZg)
 - [x] [create-?」每个前端开发者都可以拥有属于自己的命令行脚手架](https://mp.weixin.qq.com/s/cC-fw9mOIsfNS32uujccqQ)
