@@ -194,7 +194,7 @@
 
 - [x] [这三年沉淀的前端错误监控系统，一篇文章讲透给你](https://mp.weixin.qq.com/s/NY72_cRGAPsex78YwVF_hg)
 
-- [ ] [学习 axios 源码整体架构，打造属于自己的请求库](https://mp.weixin.qq.com/s?__biz=MzA5MjQwMzQyNw==&mid=2650744604&idx=1&sn=51d8d865c9848fd59f7763f5fb9ce789&chksm=88662490bf11ad86061ae76ff71a1177eeddab02c38d046eecd0e1ad25dc16f7591f91e9e3b2&scene=21#wechat_redirect)
+- [x] [学习 axios 源码整体架构，打造属于自己的请求库](https://mp.weixin.qq.com/s?__biz=MzA5MjQwMzQyNw==&mid=2650744604&idx=1&sn=51d8d865c9848fd59f7763f5fb9ce789&chksm=88662490bf11ad86061ae76ff71a1177eeddab02c38d046eecd0e1ad25dc16f7591f91e9e3b2&scene=21#wechat_redirect)
 
 - [x] [我在支付宝前端体验技术部这四年学到了什么？](https://mp.weixin.qq.com/s/T9OUX8AQ1LK3MMMJOmS02g)
 
