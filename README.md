@@ -246,7 +246,13 @@
 - [x] [我们用 AntV/S2 替换了十几万的商业表格软件](https://mp.weixin.qq.com/s/o-irtBr_-JyTHM1VbhVHvg)
 - [x] [Scroll，你玩明白了嘛？](https://mp.weixin.qq.com/s/diLxdGfEh_ZIFkJrQCzb5w)
 - [x] [看了9个开源的 Vue3 组件库，发现了这些前端的流行趋势](https://mp.weixin.qq.com/s/81UzOPXOqai_qxIsakX0vw)
-- [ ] [Cutter - Web视频剪辑工具原理浅析](https://mp.weixin.qq.com/s/hNIY9Wbqnpg9QErbYqMUWQ)
+
+# web多媒体
+
+- [x] [Cutter - Web视频剪辑工具原理浅析](https://mp.weixin.qq.com/s/hNIY9Wbqnpg9QErbYqMUWQ)
+- [ ] [多媒体前端技术入门指南](https://www.teqng.com/2021/06/29/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/)
+- [ ] [web多媒体技术在视频编辑场景的应用](https://cloud.tencent.com/developer/article/1694656)
+- [ ] [爱奇艺云剪辑Web端的技术实现](https://blog.51cto.com/u_15282126/3000742)
 
 
   
