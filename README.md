@@ -246,7 +246,7 @@
 - [x] [我们用 AntV/S2 替换了十几万的商业表格软件](https://mp.weixin.qq.com/s/o-irtBr_-JyTHM1VbhVHvg)
 - [x] [Scroll，你玩明白了嘛？](https://mp.weixin.qq.com/s/diLxdGfEh_ZIFkJrQCzb5w)
 - [x] [看了9个开源的 Vue3 组件库，发现了这些前端的流行趋势](https://mp.weixin.qq.com/s/81UzOPXOqai_qxIsakX0vw)
-
+- [ ] [Cutter - Web视频剪辑工具原理浅析](https://mp.weixin.qq.com/s/hNIY9Wbqnpg9QErbYqMUWQ)
 
 
   
