@@ -250,9 +250,10 @@
 # web多媒体
 
 - [x] [Cutter - Web视频剪辑工具原理浅析](https://mp.weixin.qq.com/s/hNIY9Wbqnpg9QErbYqMUWQ)
-- [ ] [多媒体前端技术入门指南](https://www.teqng.com/2021/06/29/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/)
-- [ ] [web多媒体技术在视频编辑场景的应用](https://cloud.tencent.com/developer/article/1694656)
-- [ ] [爱奇艺云剪辑Web端的技术实现](https://blog.51cto.com/u_15282126/3000742)
+- [x] [多媒体前端技术入门指南](https://www.teqng.com/2021/06/29/%E5%A4%9A%E5%AA%92%E4%BD%93%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97/)
+- [x] [web多媒体技术在视频编辑场景的应用](https://cloud.tencent.com/developer/article/1694656)
+- [x] [爱奇艺云剪辑Web端的技术实现](https://blog.51cto.com/u_15282126/3000742)
+- [x] [Web端短视频编辑器的设计与实现 - 像做PPT一样做视频](https://developer.aliyun.com/article/883401)
 
 
   
