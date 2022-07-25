@@ -54,6 +54,7 @@
 - [x] [浅析 JavaScript 沙箱](https://mp.weixin.qq.com/s/euHJpS6rcRRqVBIPAnbUHA)
 - [x] [分享一篇 TypeScript 基础入门 文章](https://mp.weixin.qq.com/s/fS4-rx5B6Izl-10KCcjyRA)
 - [x] [今天升级 esbuild，结果 Babel 挂了？聊聊 ESM 与 CJS 的来世今生。](https://mp.weixin.qq.com/s/2qmy21NUPyoIP-erEIc-uA)
+- [ ] [Blob、File、ArrayBuffer、TypedArray、DataView究竟应该如何应用](https://zhuanlan.zhihu.com/p/509320229?utm_source=wechat_session&utm_medium=social&utm_oi=876953434316759040&utm_campaign=shareopn)
 
 # NodeJs
 - [ ] [Node.js 底层原理](https://mp.weixin.qq.com/s/ognHGg6ptHmvWOWb9B4bPw)
@@ -246,6 +247,7 @@
 - [x] [我们用 AntV/S2 替换了十几万的商业表格软件](https://mp.weixin.qq.com/s/o-irtBr_-JyTHM1VbhVHvg)
 - [x] [Scroll，你玩明白了嘛？](https://mp.weixin.qq.com/s/diLxdGfEh_ZIFkJrQCzb5w)
 - [x] [看了9个开源的 Vue3 组件库，发现了这些前端的流行趋势](https://mp.weixin.qq.com/s/81UzOPXOqai_qxIsakX0vw)
+- [ ] [深入浅出富文本编辑器](https://mp.weixin.qq.com/s/Cs4jc5nHQDCAUtGRa3fuew)
 
 # web多媒体
 
