@@ -248,6 +248,7 @@
 - [x] [Scroll，你玩明白了嘛？](https://mp.weixin.qq.com/s/diLxdGfEh_ZIFkJrQCzb5w)
 - [x] [看了9个开源的 Vue3 组件库，发现了这些前端的流行趋势](https://mp.weixin.qq.com/s/81UzOPXOqai_qxIsakX0vw)
 - [x] [深入浅出富文本编辑器](https://mp.weixin.qq.com/s/Cs4jc5nHQDCAUtGRa3fuew)
+- [ ] [深入理解 Mocha 测试框架：从零实现一个 Mocha](https://mp.weixin.qq.com/s/tpaCOMlVW8kV--s5SflvwQ)
 
 # web多媒体
 
