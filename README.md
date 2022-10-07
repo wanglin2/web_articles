@@ -34,6 +34,10 @@
 - [ ] [前端面试汇总](https://juejin.cn/post/6997768769414103048)
 - [x] [前端手写题整理](https://juejin.cn/post/6980332066722447390)
 - [ ] [艰难环境下，面腾讯、美团、商汤科技等七家大厂前端有感](https://mp.weixin.qq.com/s/Jw98JPgFjHwCzNIjtu9W7g)
+- [ ] [金九银十，你准备好面试了吗? (附30w字前端面试题总结)](https://juejin.cn/post/6996841019094335519)
+- [ ] [前端知识库](https://www.html5iq.com/index.html)
+- [ ] [历时8个月，10w字！前端知识体系+大厂面试总结（基础知识篇）](https://juejin.cn/post/7146973901166215176)
+- [ ] [web前端面试 - 面试官系列](https://vue3js.cn/interview/)
 
 
 # css
@@ -55,6 +59,7 @@
 - [x] [分享一篇 TypeScript 基础入门 文章](https://mp.weixin.qq.com/s/fS4-rx5B6Izl-10KCcjyRA)
 - [x] [今天升级 esbuild，结果 Babel 挂了？聊聊 ESM 与 CJS 的来世今生。](https://mp.weixin.qq.com/s/2qmy21NUPyoIP-erEIc-uA)
 - [x] [Blob、File、ArrayBuffer、TypedArray、DataView究竟应该如何应用](https://zhuanlan.zhihu.com/p/509320229?utm_source=wechat_session&utm_medium=social&utm_oi=876953434316759040&utm_campaign=shareopn)
+- [ ] [消灭异步回调，还得是 async-await](https://mp.weixin.qq.com/s/vCsoDvkWF7y9Kwij95IxVw)
 
 # NodeJs
 - [ ] [Node.js 底层原理](https://mp.weixin.qq.com/s/ognHGg6ptHmvWOWb9B4bPw)
@@ -124,6 +129,7 @@
 - [ ] [字节跳动最爱考的 64 道算法题（JS版）](https://juejin.cn/post/6947842412102287373)
 - [x] [OT算法](https://mp.weixin.qq.com/s/CrBAEm72qtZ707vZab8iiQ)
 - [x] [协同编辑冲突处理算法综述](https://mp.weixin.qq.com/s/3aOdbtCtSf-8YACeowbASA)
+- [ ] [LeetCode 热题 HOT 100](https://leetcode.cn/problem-list/2cktkvj/)
 
 
 
@@ -249,6 +255,7 @@
 - [x] [看了9个开源的 Vue3 组件库，发现了这些前端的流行趋势](https://mp.weixin.qq.com/s/81UzOPXOqai_qxIsakX0vw)
 - [x] [深入浅出富文本编辑器](https://mp.weixin.qq.com/s/Cs4jc5nHQDCAUtGRa3fuew)
 - [ ] [深入理解 Mocha 测试框架：从零实现一个 Mocha](https://mp.weixin.qq.com/s/tpaCOMlVW8kV--s5SflvwQ)
+- [ ] [纯 JS 实现语雀的划词高亮功能](https://mp.weixin.qq.com/s/F2OVWaMLFg8EofNr3M-8sg)
 
 # web多媒体
 
@@ -301,3 +308,7 @@
 - [x] [坐下来谈谈如何写好一份简历？](https://mp.weixin.qq.com/s/S3XHfb0zD0UiPZypYSlCnw)
 - [x] [若川知乎问答：2年前端经验，做的项目没什么技术含量，怎么办？](https://mp.weixin.qq.com/s/PY02WfJb96xXuF5OR5DDmQ)
 - [ ] [5 年前端经验的大佬提供的职业规划](https://mp.weixin.qq.com/s/5jK0Ahp6TXDuPFWGo3N6Ug)
+
+# 网站
+
+- [ ] [面圈网](https://www.mianshigee.com/)
