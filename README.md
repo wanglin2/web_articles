@@ -257,6 +257,7 @@
 - [x] [深入浅出富文本编辑器](https://mp.weixin.qq.com/s/Cs4jc5nHQDCAUtGRa3fuew)
 - [ ] [深入理解 Mocha 测试框架：从零实现一个 Mocha](https://mp.weixin.qq.com/s/tpaCOMlVW8kV--s5SflvwQ)
 - [ ] [纯 JS 实现语雀的划词高亮功能](https://mp.weixin.qq.com/s/F2OVWaMLFg8EofNr3M-8sg)
+- [ ] [如何使用 Monaco Editor 做一个在线的网页代码编辑器](https://juejin.cn/post/7085896602124025887#heading-6)
 
 # web多媒体
 
