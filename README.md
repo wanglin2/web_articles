@@ -60,6 +60,8 @@
 - [x] [今天升级 esbuild，结果 Babel 挂了？聊聊 ESM 与 CJS 的来世今生。](https://mp.weixin.qq.com/s/2qmy21NUPyoIP-erEIc-uA)
 - [x] [Blob、File、ArrayBuffer、TypedArray、DataView究竟应该如何应用](https://zhuanlan.zhihu.com/p/509320229?utm_source=wechat_session&utm_medium=social&utm_oi=876953434316759040&utm_campaign=shareopn)
 - [ ] [消灭异步回调，还得是 async-await](https://mp.weixin.qq.com/s/vCsoDvkWF7y9Kwij95IxVw)
+- [ ] [前端科普系列-CommonJS：不是前端却革命了前端](https://zhuanlan.zhihu.com/p/113009496)
+- [ ] [前端科普系列-Babel：把 ES6 送上天的通天塔](https://zhuanlan.zhihu.com/p/129089156)
 
 # NodeJs
 - [ ] [Node.js 底层原理](https://mp.weixin.qq.com/s/ognHGg6ptHmvWOWb9B4bPw)
