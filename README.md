@@ -91,6 +91,7 @@
 - [ ] [LRU 缓存-keep-alive 实现原理](https://mp.weixin.qq.com/s/UBrZWeWfCBedUvDBijtqyA)
 - [x] [做好这 16 个方向，逐步搭建出团队的 vue3 前端架构](https://mp.weixin.qq.com/s/2Wved8xFdxzDuPHroGuePA)
 - [ ] [六千字详解！讲透 Vue3 响应式是如何实现的](https://mp.weixin.qq.com/s/AtRNE7OINOaIKkFpJmbk4A)
+- [ ] [如何为 Vue3 组件标注 TS 类型，看这个就够了！](https://mp.weixin.qq.com/s/oKmA8P_vzO2jypVrA-xyFA)
 
 
 
@@ -261,6 +262,7 @@
 - [ ] [深入理解 Mocha 测试框架：从零实现一个 Mocha](https://mp.weixin.qq.com/s/tpaCOMlVW8kV--s5SflvwQ)
 - [ ] [纯 JS 实现语雀的划词高亮功能](https://mp.weixin.qq.com/s/F2OVWaMLFg8EofNr3M-8sg)
 - [ ] [如何使用 Monaco Editor 做一个在线的网页代码编辑器](https://juejin.cn/post/7085896602124025887#heading-6)
+- [ ] [你的图片加载，一点都不酷炫！不信You Look Look...](https://juejin.cn/post/7122256732940107813)
 
 # web多媒体
 
