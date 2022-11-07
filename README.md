@@ -43,7 +43,7 @@
 
 # css
 - [x] [重新构想原子化 CSS](https://mp.weixin.qq.com/s/2raMrIEu1Qt2HQQx6s3KfA)
-- [ ] [聊聊纯 CSS 图标](https://mp.weixin.qq.com/s/n-EbhQtSDsR3A9HYWbDbAw)
+- [x] [聊聊纯 CSS 图标](https://mp.weixin.qq.com/s/n-EbhQtSDsR3A9HYWbDbAw)
 - [x] [2021 年你需要知道的 CSS 工程化技术](https://mp.weixin.qq.com/s/w1Wp8Bv-8Oi4mH5A9sErUQ)
 - [ ] [css-animation-101](https://h-wakanda.github.io/css-animation-101-cn/)
 
