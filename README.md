@@ -179,6 +179,8 @@
 - [x] [JSBridge的原理](https://juejin.cn/post/6844903585268891662)
 - [ ] [响应式布局的常用解决方案对比(媒体查询、百分比、rem和vw/vh）](https://github.com/forthealllight/blog/issues/13)
 - [x] [Webview加载pdf遇到的一些坑及解决方法](https://mp.weixin.qq.com/s/REalZjkQKJaJ2rAw2Qp3RA)
+- [ ] [Hybrid App技术解析 -- 原理篇](https://github.com/xd-tayde/blog/blob/master/hybrid-1.md)
+- [ ] [Hybrid App技术解析 -- 实战篇](https://github.com/xd-tayde/blog/blob/master/hybrid-2.md)
 
 
 
