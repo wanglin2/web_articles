@@ -91,7 +91,7 @@
 - [ ] [LRU 缓存-keep-alive 实现原理](https://mp.weixin.qq.com/s/UBrZWeWfCBedUvDBijtqyA)
 - [x] [做好这 16 个方向，逐步搭建出团队的 vue3 前端架构](https://mp.weixin.qq.com/s/2Wved8xFdxzDuPHroGuePA)
 - [ ] [六千字详解！讲透 Vue3 响应式是如何实现的](https://mp.weixin.qq.com/s/AtRNE7OINOaIKkFpJmbk4A)
-- [ ] [如何为 Vue3 组件标注 TS 类型，看这个就够了！](https://mp.weixin.qq.com/s/oKmA8P_vzO2jypVrA-xyFA)
+- [x] [如何为 Vue3 组件标注 TS 类型，看这个就够了！](https://mp.weixin.qq.com/s/oKmA8P_vzO2jypVrA-xyFA)
 
 
 
