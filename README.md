@@ -172,7 +172,7 @@
 - [x] [前端部署的发展历程](https://mp.weixin.qq.com/s/sfYAk25j0RnO1GzoLcePmg)
 - [x] [ESBuild & SWC浅谈: 新一代构建工具](https://mp.weixin.qq.com/s/9VaUq9FOm2_nKNCGaH-7rw)
 - [ ] [非大厂的我们，要如何去搞前端基建？](https://juejin.cn/post/7144881028661723167)
-- [ ] [从零实现一个迷你 Webpack](https://mp.weixin.qq.com/s/e0ibggrhNdr_ZAGvxxok2Q)
+- [x] [从零实现一个迷你 Webpack](https://mp.weixin.qq.com/s/e0ibggrhNdr_ZAGvxxok2Q)
 
 
 
